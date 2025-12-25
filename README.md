@@ -79,19 +79,19 @@ This project demonstrates practical usage of **desktop application development**
 ## 🖼️ Application Screenshots
 
 ### 🔹 Login Screen
-![Login Screen Screenshot](img/Screenshot 2025-12-25 184916.png)
-
----
-
-### 🔹 Product & Stock Management
-![Product Management Screenshot](screenshots/products.png)
+![Login Screen Screenshot](img/1.png)
 
 ---
 
 ### 🔹 Transaction Report View
-![Report View Screenshot](screenshots/reports.png)
+![Report View Screenshot](img/3.png)
 
-> 📌 Replace the image paths above with your actual screenshot file paths.
+---
+
+
+### 🔹 Menu
+![Menu](img/2.png)
+
 
 ---
 
@@ -142,7 +142,4 @@ This project was built to:
 - Search functionality
 - UI modernization (WPF or .NET MAUI)
 
----
 
-## 👤 Author
-Developed by **[Your Name]**
